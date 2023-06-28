@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "clValid"]
 	path = clValid
 	url = https://github.com/cran/clValid
-	shallow = true
-	registered = true
 [submodule "RankAggreg"]
 	path = RankAggreg
 	url = https://github.com/cran/RankAggreg
-	shallow = true
-	registered = true
