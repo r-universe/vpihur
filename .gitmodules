@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "clValid"]
-	path = clValid
-	url = https://github.com/cran/clValid
 [submodule "RankAggreg"]
 	path = RankAggreg
 	url = https://github.com/cran/RankAggreg
+[submodule "clValid"]
+	path = clValid
+	url = https://github.com/cran/clValid
